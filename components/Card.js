@@ -49,12 +49,12 @@ const Card = () => {
       />
       {/* Ảnh nằm đè lên ảnh góc trái 1 */}
       <Image 
-        source={require('../assets/Vector 2.png')} 
+        source={require('../assets/Vector2.png')} 
         style={styles.overlayImage1} 
       />
       {/* Ảnh nằm đè lên ảnh góc trái 2 */}
       <Image 
-        source={require('../assets/Vector 2.1.png')} 
+        source={require('../assets/Vector2.1.png')} 
         style={styles.overlayImage2} 
       />
       

@@ -3,8 +3,8 @@ import { StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from 'rea
 import Icon from 'react-native-vector-icons/FontAwesome';
 
 // Thay đổi đường dẫn đến ảnh của bạn tại đây
-const foodImage1 = require('../assets/Rectangle 3.4.png'); // Ảnh món thứ nhất
-const foodImage2 = require('../assets/Rectangle 3.6.png'); // Ảnh món thứ hai
+const foodImage1 = require('../assets/Rectangle3.4.png'); // Ảnh món thứ nhất
+const foodImage2 = require('../assets/Rectangle3.6.png'); // Ảnh món thứ hai
 
 const Screen5 = () => {
   // Trạng thái để lưu số lượng món ăn

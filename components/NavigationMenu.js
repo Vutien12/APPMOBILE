@@ -5,7 +5,7 @@ import { View, Image, TouchableOpacity, StyleSheet, Text } from 'react-native';
 const icons = [
   { source: require('../assets/hotel.png'), size: 20 },
   { source: require('../assets/car.png'), size: 20 },
-  { source: require('../assets/Vector (1).png'), size: 20 },
+  { source: require('../assets/Vector1.png'), size: 20 },
   { source: require('../assets/avticon.png'), size: 20 },
   { source: require('../assets/setiing.png'), size: 20 },
 ];

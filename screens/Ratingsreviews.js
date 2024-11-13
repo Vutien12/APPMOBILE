@@ -4,10 +4,10 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { ProgressCircle } from 'react-native-svg-charts';
 
 const reviews = [
-    { key: '1', name: 'Ayoub ELHOURCH', rating: 4, comment: 'Nice hotel and Great food and have nice things to visit around', time: '20 mins ago', avatar: require('../assets/Ellipse 2.png') },
-    { key: '2', name: 'Dzigbodi Hosi', rating: 5, comment: "Can't hate this place. Love the place", time: '2 days ago', avatar: require('../assets/Ellipse 2.1.png') },
-    { key: '3', name: 'Hanna', rating: 4.5, comment: 'Good service', time: '2 days ago', avatar: require('../assets/Ellipse 2.2.png') },
-    { key: '4', name: 'Kate', rating: 4.5, comment: "Golf is one of the classic hotels in Cote d'Ivoire. Great service, wonderful pool area situated next to the lagoon. They have also recently renovated most of the amenities. Lovely hotel", time: '3 days ago', avatar: require('../assets/Ellipse 2.3.png') },
+    { key: '1', name: 'Ayoub ELHOURCH', rating: 4, comment: 'Nice hotel and Great food and have nice things to visit around', time: '20 mins ago', avatar: require('../assets/Ellipse2.png') },
+    { key: '2', name: 'Dzigbodi Hosi', rating: 5, comment: "Can't hate this place. Love the place", time: '2 days ago', avatar: require('../assets/Ellipse2.1.png') },
+    { key: '3', name: 'Hanna', rating: 4.5, comment: 'Good service', time: '2 days ago', avatar: require('../assets/Ellipse2.2.png') },
+    { key: '4', name: 'Kate', rating: 4.5, comment: "Golf is one of the classic hotels in Cote d'Ivoire. Great service, wonderful pool area situated next to the lagoon. They have also recently renovated most of the amenities. Lovely hotel", time: '3 days ago', avatar: require('../assets/Ellipse2.3.png') },
 ];
 
 const Screen2 = () => {

@@ -21,7 +21,7 @@ const initialItems = [
     description: 'Neque, amet blandit tincidunt vulputate',
     discount: '25% OFF',
     price: 10,
-    image: require('../assets/Rectangle 3.4.png'),
+    image: require('../assets/Rectangle3.4.png'),
   },
   {
     key: '2',
@@ -31,7 +31,7 @@ const initialItems = [
     description: 'Neque, amet blandit tincidunt vulputate',
     discount: '15% OFF',
     price: 5,
-    image: require('../assets/Rectangle 3.5.png'),
+    image: require('../assets/Rectangle3.5.png'),
   },
   {
     key: '3',
@@ -41,7 +41,7 @@ const initialItems = [
     description: 'Neque, amet blandit tincidunt vulputate',
     discount: '10% OFF',
     price: 5,
-    image: require('../assets/Rectangle 3.6.png'),
+    image: require('../assets/Rectangle3.6.png'),
   },
   {
     key: '4',
@@ -51,7 +51,7 @@ const initialItems = [
     description: 'Neque, amet blandit tincidunt vulputate',
     discount: '20% OFF',
     price: 8,
-    image: require('../assets/Rectangle 3.6 (1).png'),
+    image: require('../assets/Rectangle361.png'),
   },
 ];
 

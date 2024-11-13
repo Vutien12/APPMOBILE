@@ -6,7 +6,7 @@ import NavigationMenu from '../components/NavigationMenu';
 const images = [
   { key: '1', name: 'Free Wi-Fi', image: require('../assets/wifi.png') },
   { key: '2', name: 'Fitness Center', image: require('../assets/barbell.png') },
-  { key: '3', name: 'Free Breakfast', image: require('../assets/breakfast (1).png') },
+  { key: '3', name: 'Free Breakfast', image: require('../assets/breakfast1.png') },
   { key: '4', name: 'Kid Friendly', image: require('../assets/pushchair.png') },
   { key: '5', name: 'Free Parking', image: require('../assets/parking.png') },
   { key: '6', name: 'Pet Friendly', image: require('../assets/pawprint.png') },

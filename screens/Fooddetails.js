@@ -20,7 +20,7 @@ const Screen4 = ({ navigation }) => {
     <View style={styles.container}>
       {/* Full-width, one-third height Image */}
       <Image
-        source={require('../assets/Rectangle 3.4 (1).png')} // Cập nhật đường dẫn đến tệp hình ảnh của bạn
+        source={require('../assets/Rectangle3.4.png')} // Cập nhật đường dẫn đến tệp hình ảnh của bạn
         style={styles.largeImage}
         resizeMode="cover"
       />
