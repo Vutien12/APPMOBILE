@@ -1,0 +1,31 @@
+assets
+components
+	Card.js
+	NavigationMenu.js
+screens
+	5.3-Addnewcard.js
+	3.2-Amenites.js
+	5.2-BookingDetailsScreen.js
+	5.1-BookingHistoryScreen.js
+	5.4-Editprofile.js
+	4.4-Foodcart.js
+	4.3-Fooddetials.js
+	2.3-ForgotPasswordScreen.js
+	3-HomeScreen.js
+	3.4-HotelPhotos.js
+	3.1-Hotelslist.js
+	2.1-LoginScreen.js
+	5-Myprofile.js
+	3.5-Nearby.js
+	3.6-OrderConfirm.js
+	4-2-Orderfood.js
+	2.4-OtpVerificationScreen.js
+	3.7-PaymentMethods.js
+	4.1-Ratingsreviews.js
+	4-Rendeemvoucher.js
+	2.2-RegisterScreen.js
+	3.3-Review.js
+	1-SplashScreen.js
+	Screentest.js
+	3.8-Thankyou.js
+app.js
